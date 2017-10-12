@@ -135,7 +135,7 @@ h3 {
   margin-top: 10px;
   margin-left: 35px;
   margin-right: 30px;
-  font-size:20px;
+  font-size:30px;
   /*font-family: 'Georgia', Times, Times New Roman, serif;*/
   font-family: 'Marcellus SC', serif;
   padding-top:15px;
@@ -143,6 +143,7 @@ h3 {
   border-bottom: solid;
   border-bottom-width: 2px;
   border-bottom-color: navy;
+  text-shadow: 1px 0 navy, 0 -1px navy;
 }
 
 #iconList {
@@ -167,8 +168,8 @@ footer {
   color: #cccccc;
   font-size: 12px;
   border-top: solid #ff0000;
-  border-top-width: 5px;
-  border-top-color: gold;
+  border-top-width: 3px;
+  border-top-color: navy;
 }
 
 .site-footer, .footerWrap:after {
